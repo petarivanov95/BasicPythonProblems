@@ -1,2 +1,2 @@
 # BasicPythonProblems
-A repository for problems and tasks I am performing in the process of learning.
+I am creatin this repository as a backup for small problems and tasks I am performing in the process of brushing up my Python skills and developing newer ones.
