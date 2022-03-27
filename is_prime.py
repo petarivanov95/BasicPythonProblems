@@ -14,7 +14,7 @@ if num > 1:
         # 2 and n / 2, it is not prime
         if (num % i) == 0:
             print(num, "is not a prime number")
-            break
+            w
     else:
         print(num, "is a prime number")
 
